@@ -3,4 +3,5 @@ A project which read BPM using pulse sensor from Arduino and python scripting to
 
 ## Pre-requisites
 LiquidCrystal_V1.2.1
+
 Python pyserial
